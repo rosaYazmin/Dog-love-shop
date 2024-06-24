@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    background-color: #cb80f7;
+}
+
+.card {
+    text-align: center;
+}
+
+.cart-items {
+    list-style: none;
+    padding: 0;
+}
+
+.cart-items li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-items button {
+    background: none;
+    border: none;
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+}

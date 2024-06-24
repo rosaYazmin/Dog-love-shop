@@ -1,0 +1,24 @@
+.car-img-top{
+    width:100%;
+    height:auto;
+
+}
+
+container-fluid{
+    background-color: aquamarine;
+}
+
+.buton{
+   background-color:  rgb(141, 52, 224);
+}
+    & .item{
+       font-size: 3rem;
+        display: grid;
+        place-items: center;
+}
+.header {
+    background-color: plum;
+}
+
+.
+
